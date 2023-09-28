@@ -1,5 +1,7 @@
 # G3-demo
 
 Bonjour.
-Nouvelle ligne
-J'ai faim
+J'ai faim.
+Nouvelle ligne.
+Merge conflict solved !
+
